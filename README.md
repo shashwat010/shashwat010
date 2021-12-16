@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashwat Jain</h1>
-<h3 align="center">A passionate programmer keen to grow</h3>
+<h3 align="center">A passionate programmer keen to learn and grow</h3>
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
 
